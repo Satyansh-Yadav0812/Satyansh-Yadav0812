@@ -41,4 +41,16 @@ I'm currently learning **Web Development** using **HTML, CSS, JavaScript, and Re
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 🚀 Featured Projects
+
+<a href="https://github.com/Satyansh-Yadav0812/spotify-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyansh-Yadav0812&repo=spotify-clone&theme=github_dark&border_radius=10" />
+</a>
+
+<a href="https://github.com/Satyansh-Yadav0812/Satyansh-Yadav0812.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyansh-Yadav0812&repo=Satyansh-Yadav0812.github.io&theme=github_dark&border_radius=10" />
+</a>
+
+---
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories, and don't forget to ⭐ a project if you find it useful.
