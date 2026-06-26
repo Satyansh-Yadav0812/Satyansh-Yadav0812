@@ -42,4 +42,3 @@ I'm currently learning **Web Development** using **HTML, CSS, JavaScript, and Re
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-```
