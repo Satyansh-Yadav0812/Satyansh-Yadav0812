@@ -29,6 +29,6 @@ Welcome to my GitHub page. Currently I'm learning **Web Development** using **HT
 ### Tools Used
 ![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-0078D4?style=flat-square&logo=visual-studio-code)
-![Eclipse Editor](https://img.shields.io/badge/Eclipse-Editor-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Eclipse Editor](https://img.shields.io/badge/Eclipse-Editor-2C2255?style=flat-square&logo=eclipseide)
 
 ⭐ Thanks for visiting my profile!
