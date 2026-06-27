@@ -6,6 +6,9 @@ I'm currently learning **Web Development** using **HTML, CSS, JavaScript, and Re
 
 ---
 
+## Connect to me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyansh-yadav-8aa4303a4)
+
 ## 👨‍💻 About Me
 
 - 🎓 **Computer Science Student** pursuing **B.Tech in Computer Science & Engineering** at **ABES Engineering College, Ghaziabad**
