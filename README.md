@@ -52,11 +52,11 @@ I'm currently learning **Web Development** using **HTML, CSS, JavaScript, and Re
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyansh-Yadav0812&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyansh-Yadav0812&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ⭐ **Thanks for visiting my profile!** Feel free to explore my repositories, and don't forget to ⭐ a project if you find it useful.
