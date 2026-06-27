@@ -42,14 +42,8 @@ I'm currently learning **Web Development** using **HTML, CSS, JavaScript, and Re
 ---
 
 ## 🚀 Featured Projects
-
-<a href="https://github.com/Satyansh-Yadav0812/spotify-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyansh-Yadav0812&repo=spotify-clone&theme=github_dark&border_radius=10" />
-</a>
-
-<a href="https://github.com/Satyansh-Yadav0812/Satyansh-Yadav0812.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyansh-Yadav0812&repo=Satyansh-Yadav0812.github.io&theme=github_dark&border_radius=10" />
-</a>
+* **[Steam UI Clone](https://satyansh-yadav0812.github.io/):** First project built using FSD
+* **[Spotify UI Clone](https://satyansh-yadav0812.github.io/spotify-clone/):** A responsive clone of Spotify's UI built using HTML, CSS and JS
 
 ---
 
