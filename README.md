@@ -113,6 +113,14 @@ https://github.com/Satyansh-Yadav0812/spotify-clone
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Satyansh-Yadav0812/Satyansh-Yadav0812/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
 # ⚡ Fun Facts
 
 - 💻 I enjoy recreating the UI of popular websites.
