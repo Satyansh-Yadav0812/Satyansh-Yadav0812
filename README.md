@@ -21,22 +21,20 @@
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center">
-
   <a href="https://www.linkedin.com/in/satyansh-yadav-8aa4303a4">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+</p> 
+<p align="center">
   <a href="mailto:satyansh.25b01011354@abes.ac.in@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  
+</p>
+<p align="center">
   <a href="https://github.com/Satyansh-Yadav0812">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-
 </p>
 
 ---
