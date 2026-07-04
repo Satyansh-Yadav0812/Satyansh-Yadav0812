@@ -2,14 +2,6 @@
 
 <h3 align="center">Computer Science Student • Frontend Developer • C++ Programmer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <p align="right">
-  <img alt="Developer" width="350" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b86-4e5b-8d9d-9d9b4b6b1f1c.gif">
-</p>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
