@@ -91,8 +91,8 @@ https://github.com/Satyansh-Yadav0812/spotify-clone
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyansh-Yadav0812&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Satyansh-Yadav0812&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -109,14 +109,6 @@ https://github.com/Satyansh-Yadav0812/spotify-clone
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyansh-Yadav0812&theme=react-dark"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyansh-Yadav0812&theme=radical&row=2&column=4"/>
 </p>
 
 ---
