@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyansh Yadav</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Vd8tCRg99Xw40/giphy.gif" width="600" alt="Gojo Satoru Limitless Infinity" style="border-radius: 8px;" />
-</p>
-
-<p align="center">
-  <marquee direction="left" scrollamount="4" behavior="scroll" style="color: #a9b1d6; font-family: monospace; font-size: 14px; background: #1a1b26; padding: 6px; border-radius: 4px;">
-    ∞ . . . Through Heaven and Earth, I Alone Am The Honored One . . . 無限 . . . The approaching object never reaches me . . . ∞
-  </marquee>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Frontend+Developer;C%2B%2B+%7C+DSA+Enthusiast;Learning+React+%26+Full-Stack+Development;Exploring+Artificial+Intelligence;Always+Building+and+Learning+%F0%9F%9A%80" />
 </p>
 
