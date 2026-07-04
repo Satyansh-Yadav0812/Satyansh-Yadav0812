@@ -12,8 +12,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
 - 🌍 Based in **Ghaziabad, India**
 - 💻 Passionate about **Web Development**
