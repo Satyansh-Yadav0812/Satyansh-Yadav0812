@@ -91,8 +91,8 @@ https://github.com/Satyansh-Yadav0812/spotify-clone
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyansh-Yadav0812&layout=compact&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyansh-Yadav0812&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
