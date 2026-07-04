@@ -6,62 +6,8 @@
 
 ---
 
-<style>
-.infinity-box {
-  padding: 18px;
-  border-radius: 12px;
-  text-align: center;
-  color: white;
-  background: rgba(20, 20, 40, 0.6);
-  position: relative;
-  overflow: hidden;
-  transition: 0.3s ease-in-out;
-  border: 1px solid rgba(120, 80, 255, 0.3);
-}
-
-.infinity-box::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: radial-gradient(circle, rgba(120,80,255,0.4), transparent 60%);
-  opacity: 0;
-  transition: 0.4s ease;
-  transform: scale(0.5);
-}
-
-.infinity-box:hover::before {
-  opacity: 1;
-  transform: scale(1);
-  animation: pulse 1.2s infinite;
-}
-
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-    filter: blur(2px);
-  }
-  50% {
-    transform: scale(1.15);
-    filter: blur(6px);
-  }
-  100% {
-    transform: scale(1);
-    filter: blur(2px);
-  }
-}
-
-.infinity-box:hover {
-  box-shadow: 0 0 25px rgba(120, 80, 255, 0.5);
-  transform: translateY(-3px);
-}
-</style>
-
 ## 👨‍💻 About Me
 
-<div class="infinity-box">
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
 - 🌍 Based in **Ghaziabad, India**
 - 💻 Passionate about **Web Development**
@@ -70,7 +16,7 @@
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🎯 Goal: Become a Software Engineer
 - 🚀 Love building responsive and interactive web applications
-</div>
+
 ---
 
 ## 🌐 Connect With Me
