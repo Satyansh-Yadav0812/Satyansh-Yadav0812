@@ -61,9 +61,9 @@
 
 > Steam-inspired landing page built using **HTML & CSS**
 
-🔗 **Live Demo:** https://satyansh-yadav0812.github.io/Steam-UI-Clone/
+🔗 **Live Demo:** https://satyansh-yadav0812.github.io/steam-web-clone/
 
-🔗 **Repository:** https://github.com/Satyansh-Yadav0812/Steam-UI-Clone.git
+🔗 **Repository:** https://github.com/Satyansh-Yadav0812/steam-web-clone.git
 
 ---
 
