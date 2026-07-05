@@ -51,9 +51,9 @@
 
 > Responsive Spotify interface built using **HTML, CSS & JavaScript**
 
-🔗 **Live Demo:** https://satyansh-yadav0812.github.io/spotify-clone/
+🔗 **Live Demo:** https://satyansh-yadav0812.github.io/spotify-web-clone/
 
-🔗 **Repository:** https://github.com/Satyansh-Yadav0812/spotify-clone
+🔗 **Repository:** https://github.com/Satyansh-Yadav0812/spotify-web-clone.git
 
 ---
 
