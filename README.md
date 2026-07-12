@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About M
+## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
 - 🌍 Based in **Ghaziabad, India**
