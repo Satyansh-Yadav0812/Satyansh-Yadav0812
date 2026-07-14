@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyansh Yadav</h1>
+<h1 align="center">Hi 👋, I'm Satyash Yadav</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Frontend+Developer;C%2B%2B+%7C+DSA+Enthusiast;Learning+React+%26+Full-Stack+Development;Exploring+Artificial+Intelligence;Always+Building+and+Learning+%F0%9F%9A%80" />
