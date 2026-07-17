@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Connect With Mw
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyansh-yadav-8aa4303a4">
