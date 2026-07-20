@@ -35,7 +35,7 @@
 
 ---
 
-## 💻 Tec Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&perline=6"/>
