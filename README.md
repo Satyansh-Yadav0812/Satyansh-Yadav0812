@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student at **ABES Engineering College**
-- 🌍 Based in **Ghazibad, India**
+- 🌍 Based in **Ghaziabad, India**
 - 💻 Passionate about **Web Development**
 - 🌱 Currently learning **ReactJS**
 - 🧠 Solving **Data Structures & Algorithms** using **C++**
