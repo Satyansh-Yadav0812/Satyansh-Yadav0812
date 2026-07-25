@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Statistcs
+## 📊 Gitub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Satyansh-Yadav0812&show_icons=true&theme=tokyonight&hide_border=true" />
